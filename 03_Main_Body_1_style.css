@@ -1,0 +1,37 @@
+.main_div_3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 30px;
+    background-color: gray;
+}
+
+.box {
+    margin: 15px;
+    height: 210px;
+    width: 285px;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.div_a {
+    text-decoration: none;
+    color: black;
+}
+
+.box_para {
+    font-weight: 400;
+    font-size: smaller;
+    color: rgb(170, 166, 166);
+}
+
+.box:hover {
+    border: 1px solid black;
+}
+
+.box:hover svg {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
