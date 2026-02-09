@@ -1,0 +1,52 @@
+.main_div_6 {
+    padding-top: 10px;
+    padding-bottom: 25px;
+    background-color: #fff;
+    color: #47474f;
+}
+
+.iLoveimg {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.iLoveimg_content {
+    display: flex;
+}
+
+.iLoveimg_img {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.iLoveimg_details {
+    align-self: center;
+    padding-left: 20px;
+}
+
+.iLoveimg_details h2 {
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 30px;
+    color: #33333b;
+}
+
+.iLoveimg_details p {
+    line-height: 30px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.iLoveimg_navigation {
+    padding-top: 30px;
+}
+
+.iLoveimg_details a {
+    color: #e5322d;
+    background-color: #fff;
+    border: 2px solid #e5322d;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    font-weight: bolder;
+    border-radius: 5px;
+}
