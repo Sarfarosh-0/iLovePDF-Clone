@@ -1,0 +1,35 @@
+.main_div_7 {
+    padding: 90px 0 120px;
+    background-color: white;
+}
+
+.message_block {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.message_title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 52px;
+    color: #33333b;
+}
+
+.message {
+    line-height: 32px;
+    font-size: 23px;
+    font-weight: 400;
+    color: #47474f;
+    padding: 0 80px 0 80px;
+}
+
+.achievements {
+    display: flex;
+    margin-top: 70px;
+    justify-content: center;
+}
+
+.achievements img {
+    padding: 0 40px 0 40px;
+}
