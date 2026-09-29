@@ -33,7 +33,7 @@ The goal of this project was to recreate the visual layout of iLovePDF to streng
 * Add PDF tool interactions
 * Improve accessibility
 
-## ▶️ Run Locally
+##  Run Locally
 
 Open `index.html` in your browser.
 
